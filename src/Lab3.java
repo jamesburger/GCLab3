@@ -6,6 +6,8 @@ public class Lab3 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 
+		// Author: James Burger
+		// Program takes user input integer, displays every number from 1 to user input squared and cubed
 		int userInput = 0;
 		String choice = "y";
 
